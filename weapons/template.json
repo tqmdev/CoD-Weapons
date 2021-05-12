@@ -1,0 +1,23 @@
+{
+  "category":"Assault Rifles/Sub Machine Guns",
+  "codename":"alpha/bravo",
+  "displayname":"XM4/AK-47",
+  "introduced":"base/s_ -> season1",
+  "description":"Full-auto assault rifle. Reliable damage with improved fire rate. Fair weapon control when sustaining fire.",
+  "stats": [
+     "dmgMin":"long range damage",
+     "dmgMax":"close range damage",
+     "dmgHs":"headshot damage multiplier",
+     "range":"effective range",
+     "bVel":"bullet velocity m/s",
+     "rof":"rate of fire",
+     "STK":"shots to kill",
+     "TTK":"time to kill",
+     "ammoMag":"magazine ammo",
+     "ammoStart":"starting ammo",
+     "movementBase":"movement speed",
+     "movementAds":"movement while aiming down sight",
+     "ADS":"aim down sight time ms",
+     "sprint":"sprintout time ms"
+    ]
+}
