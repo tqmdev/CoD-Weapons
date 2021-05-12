@@ -1,0 +1,5 @@
+- Alpha -> Type 63
+- Bravo -> M16
+- Charlie -> AUG
+- Delta -> DMR 14
+- Echo -> CARV.2
