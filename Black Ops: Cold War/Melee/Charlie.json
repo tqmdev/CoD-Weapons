@@ -2,7 +2,7 @@
   "category":"Melee",
   "codename":"charlie",
   "displayname":"Wakizashi",
-  "introduced":"base",
+  "introduced":"s1",
   "description":"",
   "stats": [
     {"dmgMin":"",
