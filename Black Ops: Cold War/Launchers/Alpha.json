@@ -1,0 +1,22 @@
+{
+  "category":"Launchers",
+  "codename":"alpha",
+  "displayname":"Cigma 2",
+  "introduced":"base",
+  "description":"Lock-on rocket launcher. Anti-vehicle weapon delivers devastating damage. Small ammo pool and slow handling speeds.",
+  "stats": [
+    {"dmgMin":"",
+     "dmgMax":"",
+     "dmgHs":"",
+     "bVel":"",
+     "rof":"",
+     "stkMin":"",
+     "stkMax":"",
+     "ttkMin":"",
+     "ttkMax":"",
+     "ammoMag":"",
+     "ammoStart":"",
+     "ADS":"",
+     "sprint":""
+    }]
+}
