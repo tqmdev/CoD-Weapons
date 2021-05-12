@@ -1,0 +1,5 @@
+- Alpha -> Knife
+- Bravo -> Sledgehammer
+- Charlie -> Wakizashi
+- Delta -> E-Tool
+- Echo -> Machete
