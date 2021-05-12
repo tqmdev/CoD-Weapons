@@ -2,7 +2,7 @@
   "category":"Melee",
   "codename":"delta",
   "displayname":"E-Tool",
-  "introduced":"base",
+  "introduced":"s2",
   "description":"",
   "stats": [
     {"dmgMin":"",
