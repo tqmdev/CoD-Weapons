@@ -1,0 +1,22 @@
+{
+  "category":"Special",
+  "codename":"charlie",
+  "displayname":"Ballistic Knife",
+  "introduced":"s3",
+  "description":"",
+  "stats": [
+    {"dmgMin":"",
+     "dmgMax":"",
+     "dmgHs":"",
+     "bVel":"",
+     "rof":"",
+     "stkMin":"",
+     "stkMax":"",
+     "ttkMin":"",
+     "ttkMax":"",
+     "ammoMag":"",
+     "ammoStart":"",
+     "ADS":"",
+     "sprint":""
+    }]
+}
