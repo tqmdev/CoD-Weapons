@@ -1,0 +1,22 @@
+{
+  "category":"Sub Machine Guns",
+  "codename":"bravo",
+  "displayname":"Milano 821",
+  "introduced":"base",
+  "description":"Full-Auto submachine gun. High damage with a slower fire rate and fair recoil. Improved handling speeds with more accurate hipfire spread.",
+  "stats": [
+    {"dmgMin":"28",
+     "dmgMax":"32",
+     "dmgHs":"1.4",
+     "bVel":"225",
+     "rof":"576",
+     "stkMin":"4",
+     "stkMax":"5",
+     "ttkMin":"313",
+     "ttkMax":"521",
+     "ammoMag":"32",
+     "ammoStart":"128",
+     "ADS":"233",
+     "sprint":"250"
+    }]
+}
