@@ -1,0 +1,22 @@
+{
+  "category":"Launchers",
+  "codename":"bravo",
+  "displayname":"RPG-7",
+  "introduced":"base",
+  "description":"Free-fire rocket launcher. Increased blast radius with heavy damage to vehicles, equipment, and personnel. Additional rockets provided.",
+  "stats": [
+    {"dmgMin":"",
+     "dmgMax":"",
+     "dmgHs":"",
+     "bVel":"",
+     "rof":"",
+     "stkMin":"",
+     "stkMax":"",
+     "ttkMin":"",
+     "ttkMax":"",
+     "ammoMag":"",
+     "ammoStart":"",
+     "ADS":"",
+     "sprint":""
+    }]
+}
