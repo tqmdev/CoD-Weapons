@@ -1,6 +1,6 @@
 # Weapon list with stats of recent Call of Duty games
 ## Cold War
-[Most recent patchnotes](https://github.com/tqmdev/CoD-Weapons/blob/master/Black%20Ops:%20Cold%20War/Patch_210506.md)
+- [Most recent patchnotes](https://github.com/tqmdev/CoD-Weapons/blob/master/Black%20Ops:%20Cold%20War/Patch_210506.md)
 
 ### Materials used
 - [Xclusive CW Stats](https://docs.google.com/spreadsheets/d/1YUU44esm-F1fTc8E265qZzg8RZmvnXTB7vcPIpHwwg0/htmlview?usp=sharing&pru=AAABdhYyg0I*0EKO2__kCHhjz9XFrZCKeg#)
