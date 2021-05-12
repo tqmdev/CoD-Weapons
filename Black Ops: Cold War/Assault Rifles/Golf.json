@@ -1,0 +1,23 @@
+{
+  "category":"Assault Rifles",
+  "codename":"golf",
+  "displayname":"FARA 83",
+  "introduced":"s2",
+  "description":"",
+  "stats": [
+    {"dmgMin":"28",
+     "dmgMax":"31",
+     "dmgHs":"1.25",
+     "range":"63.53",
+     "bVel":"675",
+     "rof":"800",
+     "stkMin":"5",
+     "stkMax":"6",
+     "ttkMin":"300",
+     "ttkMax":"375",
+     "ammoMag":"30",
+     "ammoStart":"90",
+     "ADS":"325",
+     "sprint":"350"
+    }]
+}
