@@ -1,0 +1,8 @@
+- Alpha -> MP5
+- Bravo -> Milano 821
+- Charlie -> AK-74u
+- Delta -> KSP 45
+- Echo -> Bullfrog
+- Foxtrot -> MAC-10
+- Golf -> LC10
+- Hotel -> PPSh-41
