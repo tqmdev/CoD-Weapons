@@ -1,0 +1,3 @@
+- Alpha -> M79
+- Bravo -> R1 Shadowhunter
+- Charlie -> Ballistic Knife
