@@ -2,7 +2,7 @@
   "category":"Melee",
   "codename":"echp",
   "displayname":"Machete",
-  "introduced":"base",
+  "introduced":"s2",
   "description":"",
   "stats": [
     {"dmgMin":"",
