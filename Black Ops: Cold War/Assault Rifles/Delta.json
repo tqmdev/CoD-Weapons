@@ -1,0 +1,23 @@
+{
+  "category":"Assault Rifles",
+  "codename":"delta",
+  "displayname":"QBZ-83",
+  "introduced":"base",
+  "description":"	Full-auto assault rifle. Superior mobility with improved handling speeds. Erratic initial recoil with less accurate hipfire spread.",
+  "stats": [
+    {"dmgMin":"28",
+     "dmgMax":"32",
+     "dmgHs":"1.4",
+     "range":"46.72",
+     "bVel":"625",
+     "rof":"681",
+     "stkMin":"5",
+     "stkMax":"6",
+     "ttkMin":"352",
+     "ttkMax":"441",
+     "ammoMag":"30",
+     "ammoStart":"90",
+     "ADS":"283",
+     "sprint":"266"
+    }]
+}
