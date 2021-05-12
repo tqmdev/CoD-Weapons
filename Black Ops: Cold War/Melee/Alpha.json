@@ -1,0 +1,22 @@
+{
+  "category":"Melee",
+  "codename":"alpha",
+  "displayname":"Knife",
+  "introduced":"base",
+  "description":"Lethal melee weapon. Straight-edge blade that kills enemies with a single deadly strike.",
+  "stats": [
+    {"dmgMin":"",
+     "dmgMax":"",
+     "dmgHs":"",
+     "bVel":"",
+     "rof":"",
+     "stkMin":"",
+     "stkMax":"",
+     "ttkMin":"",
+     "ttkMax":"",
+     "ammoMag":"",
+     "ammoStart":"",
+     "ADS":"",
+     "sprint":""
+    }]
+}
