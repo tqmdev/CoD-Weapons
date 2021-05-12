@@ -1,0 +1,7 @@
+- Alpha -> XM4
+- Bravo -> AK-47
+- Charlie -> Krig 6
+- Delta -> QBZ-83
+- Echo -> FFAR 1
+- Foxtrot -> Groza
+- Golf -> FARA 83
