@@ -1,1 +1,22 @@
-
+{
+  "category":"Sub Machine Guns",
+  "codename":"alpha",
+  "displayname":"MP5",
+  "introduced":"base",
+  "description":"Full-auto submachine gun. Fast fire rate with low recoil. Good visibility and control while firing.",
+  "stats": [
+    {"dmgMin":"23",
+     "dmgMax":"32",
+     "dmgHs":"1.4",
+     "bVel":"250",
+     "rof":"857",
+     "stkMin":"5",
+     "stkMax":"7",
+     "ttkMin":"280",
+     "ttkMax":"420",
+     "ammoMag":"30",
+     "ammoStart":"120",
+     "ADS":"275",
+     "sprint":"233"
+    }]
+}
