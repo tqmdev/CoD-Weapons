@@ -1,1 +1,23 @@
-
+{
+  "category":"Assault Rifles",
+  "codename":"alpha",
+  "displayname":"XM4",
+  "introduced":"base",
+  "description":"Full-auto assault rifle. Reliable damage with improved fire rate. Fair weapon control when sustaining fire.",
+  "stats": [
+    {"dmgMin":"28",
+     "dmgMax":"30",
+     "dmgHs":"1.4",
+     "range":"45.72",
+     "bVel":"550",
+     "rof":"722",
+     "stkMin":"5",
+     "stkMax":"6",
+     "ttkMin":"322",
+     "ttkMax":"416",
+     "ammoMag":"30",
+     "ammoStart":"90",
+     "ADS":"300",
+     "sprint":"266"
+    }]
+}
