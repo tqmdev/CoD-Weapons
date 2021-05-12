@@ -1,0 +1,22 @@
+{
+  "category":"Melee",
+  "codename":"alpha",
+  "displayname":"Wakizashi",
+  "introduced":"base",
+  "description":"",
+  "stats": [
+    {"dmgMin":"",
+     "dmgMax":"",
+     "dmgHs":"",
+     "bVel":"",
+     "rof":"",
+     "stkMin":"",
+     "stkMax":"",
+     "ttkMin":"",
+     "ttkMax":"",
+     "ammoMag":"",
+     "ammoStart":"",
+     "ADS":"",
+     "sprint":""
+    }]
+}
