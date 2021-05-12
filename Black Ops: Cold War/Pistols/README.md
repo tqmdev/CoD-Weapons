@@ -1,0 +1,3 @@
+- Alpha -> 1911
+- Bravo -> Magnum
+- Charlie -> Diamatti
