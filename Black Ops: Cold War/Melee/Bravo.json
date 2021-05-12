@@ -2,7 +2,7 @@
   "category":"Melee",
   "codename":"bravo",
   "displayname":"Sledgehammer",
-  "introduced":"base",
+  "introduced":"s1",
   "description":"",
   "stats": [
     {"dmgMin":"",
