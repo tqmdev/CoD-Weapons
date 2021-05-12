@@ -1,0 +1,22 @@
+{
+  "category":"Sub Machine Guns",
+  "codename":"charlie",
+  "displayname":"AJ-74u",
+  "introduced":"base",
+  "description":"Full-auto submachine gun. Improved damage and range with reliable weapon control.",
+  "stats": [
+    {"dmgMin":"27",
+     "dmgMax":"38",
+     "dmgHs":"1.4",
+     "bVel":"383",
+     "rof":"697",
+     "stkMin":"4",
+     "stkMax":"6",
+     "ttkMin":"258",
+     "ttkMax":"430",
+     "ammoMag":"30",
+     "ammoStart":"120",
+     "ADS":"300",
+     "sprint":"250"
+    }]
+}
