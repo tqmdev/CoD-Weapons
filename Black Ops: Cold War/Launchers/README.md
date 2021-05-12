@@ -1,0 +1,2 @@
+- Alpha -> Cigma 2
+- Bravo -> RPG-7
