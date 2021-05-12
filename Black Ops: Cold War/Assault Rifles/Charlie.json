@@ -1,0 +1,23 @@
+{
+  "category":"Assault Rifles",
+  "codename":"charlie",
+  "displayname":"Krig 6",
+  "introduced":"base",
+  "description":"Full-auto assault rifle. Improved damage and accuracy. Excellent weapon control with slightly faster reload speeds.",
+  "stats": [
+    {"dmgMin":"28",
+     "dmgMax":"33",
+     "dmgHs":"1.4",
+     "range":"50.8",
+     "bVel":"625",
+     "rof":"652
+     "stkMin":"5",
+     "stkMax":"6",
+     "ttkMin":"368
+     "ttkMax":"460
+     "ammoMag":"30",
+     "ammoStart":"90",
+     "ADS":"300",
+     "sprint":"266"
+    }]
+}
