@@ -1,0 +1,5 @@
+- Alpha -> Pelington 703
+- Bravo -> LW3 - Tundra
+- Charlie -> M82
+- Delta -> ZRG 20mm
+- Echo -> Swiss K31
