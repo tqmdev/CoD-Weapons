@@ -1,0 +1,22 @@
+{
+  "category":"Special",
+  "codename":"bravo",
+  "displayname":"R1 Shadowhunter",
+  "introduced":"s2",
+  "description":"",
+  "stats": [
+    {"dmgMin":"",
+     "dmgMax":"",
+     "dmgHs":"",
+     "bVel":"",
+     "rof":"",
+     "stkMin":"",
+     "stkMax":"",
+     "ttkMin":"",
+     "ttkMax":"",
+     "ammoMag":"",
+     "ammoStart":"",
+     "ADS":"",
+     "sprint":""
+    }]
+}
