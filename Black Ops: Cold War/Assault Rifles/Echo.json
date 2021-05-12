@@ -1,0 +1,23 @@
+{
+  "category":"Assault Rifles",
+  "codename":"echo",
+  "displayname":"FFAR 1",
+  "introduced":"base",
+  "description":"Full-auto assault rifle. Fast fire rate with quick reloading speeds. Modest damage and slightly less ammo capacity.",
+  "stats": [
+    {"dmgMin":"23",
+     "dmgMax":"27",
+     "dmgHs":"1.4",
+     "range":"38.1",
+     "bVel":"705",
+     "rof":"909",
+     "stkMin":"6",
+     "stkMax":"7",
+     "ttkMin":"320",
+     "ttkMax":"396",
+     "ammoMag":"25",
+     "ammoStart":"100",
+     "ADS":"300",
+     "sprint":"333"
+    }]
+}
